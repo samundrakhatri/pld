@@ -10,7 +10,7 @@ const pluralSightApi = {
 };
 const authenticationPayloads = {
     username: 'samundra.khatri@introcept.co',
-    password: 'introcept'
+    password: '******'
 };
 
 let cookieJar = request.jar(new FileCookieStore('cookies.json'));
